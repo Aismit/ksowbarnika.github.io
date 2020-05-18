@@ -1,5 +1,5 @@
 <div align='center'>
-## Welcome to GitHub Pages
+  <h1>Welcome to GitHub Pages</h1>
 </div>
 
 <div align='center'>
