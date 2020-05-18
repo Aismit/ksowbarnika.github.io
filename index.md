@@ -1,7 +1,6 @@
 <div align='center'>
   <h1>Hello everyone, I am Sowbarnika and welcome to my website!</h1>
   <br>
-  </br>
   <h2> When I am not hitting those notes, I am hitting those books! </h2>
 </div>
 
