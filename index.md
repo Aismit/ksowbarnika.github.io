@@ -3,11 +3,11 @@
   <br>
   <h2> When I am not hitting those notes, I am hitting those books! </h2>
 </div>
-
+<br>
 <div align = 'center'>
-  <h2> Best of Both Worlds </h2>
+  <h3> Best of Both Worlds </h2>
   <br>
-  <h3> Posted on January 23, 2019 </h3>
+  <h4> Posted on January 23, 2019 </h3>
 </div>
 Ok so guys I’ve decided to change my blog up a bit. Mainly because I’ve been contemplating a lot on how want to spend my time in college and music has been an important part of my life for as long as I could remember. To give you a little bit of a background, I started vocal training lessons through Carnatic music, a South Indian classical music style, at the age of 5. Lessons have been going on ever since. However, they’re not as often since college started just because life got in the way ( 😦 ).  Music is my safe haven. It’s always been this platform that made me feel so comfortable despite any external factors that might be negatively impacting me. It’s almost as if it’s a crutch for me to lean on when things get personally and/or academically stressful at school. That’s precisely why I made the decision to minor in music. It has been especially important lately, as I’ve started making my own music and thinking about Music as a side gig/hobby. The motivations behind these thoughts would definitely have to do with my acappella group and the extent to which they have supported me.
 
